@@ -1,0 +1,14 @@
+{
+  "Local_Session_OSX_10_11_Firefox_48" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "48.0",
+      "browserName" : "Firefox",
+      "deviceVersion" : "NA",
+      "deviceName" : "OSX_10_11"
+    },
+    "configuration" : {
+      "isRemote" : "false",
+      "isMobile" : "false"
+    }
+  }
+}

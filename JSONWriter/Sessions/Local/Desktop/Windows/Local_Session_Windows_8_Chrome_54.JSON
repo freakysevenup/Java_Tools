@@ -1,0 +1,14 @@
+{
+  "Local_Session_Windows_8_Chrome_54" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "54.0",
+      "browserName" : "Chrome",
+      "deviceVersion" : "NA",
+      "deviceName" : "Windows 8"
+    },
+    "configuration" : {
+      "isRemote" : "false",
+      "isMobile" : "false"
+    }
+  }
+}

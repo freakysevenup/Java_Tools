@@ -1,0 +1,15 @@
+{
+  "Sauce_Remote_Session_Windows_8_1_ie_11" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "11.0",
+      "browserName" : "IE",
+      "deviceVersion" : "NA",
+      "deviceName" : "Windows 8.1"
+    },
+    "configuration" : {
+      "credentials" : "SauceLabs",
+      "isRemote" : "true",
+      "isMobile" : "false"
+    }
+  }
+}

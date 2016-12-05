@@ -1,0 +1,15 @@
+{
+  "Sauce_Remote_Session_OSX_10_11_Chrome_53" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "53.0",
+      "browserName" : "Chrome",
+      "deviceVersion" : "NA",
+      "deviceName" : "OSX_10_11"
+    },
+    "configuration" : {
+      "credentials" : "SauceLabs",
+      "isRemote" : "true",
+      "isMobile" : "false"
+    }
+  }
+}

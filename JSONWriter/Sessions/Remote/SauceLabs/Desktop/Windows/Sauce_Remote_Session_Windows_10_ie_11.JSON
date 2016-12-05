@@ -1,0 +1,15 @@
+{
+  "Sauce_Remote_Session_Windows_10_ie_11" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "11.103",
+      "browserName" : "IE",
+      "deviceVersion" : "NA",
+      "deviceName" : "Windows 10"
+    },
+    "configuration" : {
+      "credentials" : "SauceLabs",
+      "isRemote" : "true",
+      "isMobile" : "false"
+    }
+  }
+}

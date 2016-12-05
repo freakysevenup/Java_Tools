@@ -1,0 +1,14 @@
+{
+  "Local_Session_Windows_7_Firefox_49" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "49.0",
+      "browserName" : "Firefox",
+      "deviceVersion" : "NA",
+      "deviceName" : "Windows 7"
+    },
+    "configuration" : {
+      "isRemote" : "false",
+      "isMobile" : "false"
+    }
+  }
+}

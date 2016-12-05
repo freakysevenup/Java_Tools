@@ -1,0 +1,14 @@
+{
+  "Local_Session_LG_Nexus_4_Emulator_4_4" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "NA",
+      "browserName" : "Browser",
+      "deviceVersion" : "4.4",
+      "deviceName" : "LG Nexus 4 Emulator"
+    },
+    "configuration" : {
+      "isRemote" : "false",
+      "isMobile" : "true"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Grid_Remote_Session_Windows_8_Chrome_53" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "53.0",
+      "browserName" : "Chrome",
+      "deviceVersion" : "NA",
+      "deviceName" : "Windows 8"
+    },
+    "configuration" : {
+      "credentials" : "Grid",
+      "isRemote" : "true",
+      "isMobile" : "false"
+    }
+  }
+}

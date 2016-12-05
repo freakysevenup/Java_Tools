@@ -1,0 +1,14 @@
+{
+  "Local_Session_Windows_8_1_Chrome_53" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "53.0",
+      "browserName" : "Chrome",
+      "deviceVersion" : "NA",
+      "deviceName" : "Windows 8.1"
+    },
+    "configuration" : {
+      "isRemote" : "false",
+      "isMobile" : "false"
+    }
+  }
+}

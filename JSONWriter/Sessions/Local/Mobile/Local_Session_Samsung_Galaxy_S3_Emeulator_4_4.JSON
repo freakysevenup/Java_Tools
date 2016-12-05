@@ -1,0 +1,14 @@
+{
+  "Local_Session_Samsung_Galaxy_S3_Emeulator_4_4" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "NA",
+      "browserName" : "Browser",
+      "deviceVersion" : "4.4",
+      "deviceName" : "Samsung Galaxy S3 Emulator"
+    },
+    "configuration" : {
+      "isRemote" : "false",
+      "isMobile" : "true"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Local_Session_OSX_10_10_Chrome_54" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "54.0",
+      "browserName" : "Chrome",
+      "deviceVersion" : "NA",
+      "deviceName" : "OSX_10_10"
+    },
+    "configuration" : {
+      "isRemote" : "false",
+      "isMobile" : "false"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Grid_Remote_Session_OSX_10_10_Safari_8" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "8.0",
+      "browserName" : "Safari",
+      "deviceVersion" : "NA",
+      "deviceName" : "OSX_10_10"
+    },
+    "configuration" : {
+      "credentials" : "Grid",
+      "isRemote" : "true",
+      "isMobile" : "false"
+    }
+  }
+}

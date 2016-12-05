@@ -1,0 +1,14 @@
+{
+  "Local_Session_Windows_10_Firefox_48" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "48.0",
+      "browserName" : "Firefox",
+      "deviceVersion" : "NA",
+      "deviceName" : "Windows 10"
+    },
+    "configuration" : {
+      "isRemote" : "false",
+      "isMobile" : "false"
+    }
+  }
+}

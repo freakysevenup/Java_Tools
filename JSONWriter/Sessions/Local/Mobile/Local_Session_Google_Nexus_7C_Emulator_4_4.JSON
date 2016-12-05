@@ -1,0 +1,14 @@
+{
+  "Local_Session_Google_Nexus_7C_Emulator_4_4" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "NA",
+      "browserName" : "Browser",
+      "deviceVersion" : "4.4",
+      "deviceName" : "Google Nexus 7C Emulator"
+    },
+    "configuration" : {
+      "isRemote" : "false",
+      "isMobile" : "true"
+    }
+  }
+}

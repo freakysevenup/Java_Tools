@@ -1,0 +1,15 @@
+{
+  "Grid_Remote_Session_Android_Emulator_5_1" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "NA",
+      "browserName" : "Browser",
+      "deviceVersion" : "5.1",
+      "deviceName" : "Android Emulator"
+    },
+    "configuration" : {
+      "credentials" : "Grid",
+      "isRemote" : "true",
+      "isMobile" : "true"
+    }
+  }
+}

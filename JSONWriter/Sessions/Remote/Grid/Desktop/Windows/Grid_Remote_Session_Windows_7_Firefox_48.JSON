@@ -1,0 +1,15 @@
+{
+  "Grid_Remote_Session_Windows_7_Firefox_48" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "48.0",
+      "browserName" : "Firefox",
+      "deviceVersion" : "NA",
+      "deviceName" : "Windows 7"
+    },
+    "configuration" : {
+      "credentials" : "Grid",
+      "isRemote" : "true",
+      "isMobile" : "false"
+    }
+  }
+}

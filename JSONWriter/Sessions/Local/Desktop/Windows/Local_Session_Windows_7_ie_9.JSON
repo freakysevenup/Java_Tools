@@ -1,0 +1,14 @@
+{
+  "Local_Session_Windows_7_ie_9" : {
+    "desiredCapabilities" : {
+      "browserVersion" : "9.0",
+      "browserName" : "IE",
+      "deviceVersion" : "NA",
+      "deviceName" : "Windows 7"
+    },
+    "configuration" : {
+      "isRemote" : "false",
+      "isMobile" : "false"
+    }
+  }
+}
